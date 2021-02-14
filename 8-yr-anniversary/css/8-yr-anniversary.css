@@ -199,8 +199,8 @@ p.intro {
 	color: #3e3837;
 	float: center;
 	text-align: center;
-	margin-left: 520px;
-	margin-right: 520px;
+	margin-left: 500px;
+	margin-right: auto;
 	margin-top: 50px;
 	display: inline-block;
 }
@@ -228,7 +228,7 @@ p.intro {
 .tenth-image-right-half {
 	float: right;
 	width: 67%;
-	margin-right: 20px;
+	margin-right: 30px;
 	display: inline-block;
 }
 
@@ -247,16 +247,16 @@ p.intro {
 	float: left;
 	width: 67%;
 	margin-top: 70px;
-	margin-left: 35px;
+	margin-left: 40px;
 	display: inline-block;
 }
 
 
 .twelfth-image-right {
 	float: right;
-	width: 60%;
+	width: 40%;
 	margin-top: 100px;
-	margin-right: -100px;
+	margin-right: 20px;
 	display: inline-block;
 }
 
@@ -264,5 +264,3 @@ p.intro {
   max-width: 100%;
   height: auto;
 }
-
-
